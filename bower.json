@@ -1,0 +1,22 @@
+{
+  "name": "bashtender",
+  "description": "",
+  "main": "",
+  "authors": [
+    "alexsynarchin <alexsynarchin@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0"
+  }
+}
